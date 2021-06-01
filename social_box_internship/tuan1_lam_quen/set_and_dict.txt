@@ -1,0 +1,8 @@
+Set:
+ - là một trong 4 kiểu dữ liệu tích hợp săn trong Python
+ - sử dụng để lưu trữ các bộ sưu tập dữ liệu
+ - đặc điểm:
+    +, không có thứ tự và unindexed
+    +, không thể thay đổi các mục của nó, có thể thêm mới
+    +, không thể có hai mục có giá trị trùng lặp
+    *, các mục trong set có thể thuộc bất kỳ dữ liệu nào
